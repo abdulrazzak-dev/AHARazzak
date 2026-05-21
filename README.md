@@ -1,6 +1,48 @@
+
+  # 👋 Hi, I'm Abdul Razzak!
+
+### 🚀 Frontend Developer & Web Designer
+I am a passionate Frontend Developer dedicated to building clean, responsive, and highly interactive user interfaces. I love turning design concepts into functional, pixel-perfect websites. Currently, I am expanding my expertise through the Web Design & Development programs at the **University of Moratuwa**.
+
 - 🌱 I’m currently learning Java  and Integrating AI to my workflow
 - Previously worked with Dialog
 - ⚡ Fun fact: I know Sinhala
+
+---
+
+## 🛠️ My Tech Stack
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Libraries & Frameworks:** GSAP (GreenSock Animation Platform)
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Design Focus:** Responsive Web Design, UI/UX Layouts, B2B Commercial Sites
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the recent web projects I have designed and deployed:
+
+- **⚡ [Golden Electrical & Manufactures](https://aharazzak.github.io/Project--Electrical-web-sit-/)** - A commercial B2B product catalog storefront with clean navigation and interactive pricing badges.
+- **🍰 [Sweet Delights Bakery](https://aharazzak.github.io/Web-Designs---New-project-mora-/)** - An elegant digital storefront for an artisan bakery featuring semantic pricing tables.
+- **🌐 [Personal Portfolio](https://aharazzak.github.io/Portfolio/)** - My personal digital experience featuring smooth animations powered by GSAP.
+
+---
+
+## 🎓 Certifications & Credentials
+
+- **Front-End Web Development** — University of Moratuwa
+- **Web Development** — University of Moratuwa
+- **AI for Beginners** — HP
+
+---
+
+## 🤝 Let's Connect!
+
+- **Portfolio Site:** [aharazzak.github.io/Portfolio/](https://aharazzak.github.io/Portfolio/)
+- Feel free to check out my repositories, open an issue, or reach out for collaboration on exciting frontend projects!
+
+---
 
   ## Social Presence
   [<img src="https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/AbdulRazzak3gol)
