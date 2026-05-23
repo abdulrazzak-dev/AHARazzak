@@ -60,4 +60,4 @@ Here are some of the recent web projects I have designed and deployed:
 <br/>
 
 
-[![Abdulrazzak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AHARazzak&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdulrazzak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrazzak-dev&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
