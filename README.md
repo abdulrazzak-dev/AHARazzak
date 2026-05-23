@@ -13,7 +13,7 @@ I am a passionate and detail-oriented developer specializing in building modern,
 ### 🚀 What I Do
 - 📱 **Front-End Architecture:** Creating pixel perfect layouts using modern CSS (Flexbox, Grid), media queries, and semantic HTML.
 - ⚙️ **Full-Stack Development:** Evolving systems by bridging modern front-end interactivity with structured backend ecosystems.
-- 🤖 **AI-Assisted Workflow:** Leveraging cutting-edge AI utilities to speed up code layouts, write smart tests, and optimize debugging.
+- 🤖 **AI-Assisted Workflow:** Leveraging cutting edge AI utilities to speed up code layouts, write smart tests, and optimize debugging.
 - 🎓 **Certified Excellence:** Completed the certified Front-End Web Development program from the **University of Moratuwa**.
 
 - 🌱 I’m currently learning Java  and Integrating AI to my workflow
